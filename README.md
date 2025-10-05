@@ -8,36 +8,12 @@ The objective was to create a **simple and interactive dashboard** in **Power BI
 
 ---
 
-## 🎯 Objective
-
-The goal of this task was to:
-
-* Import and visualize the sales dataset in Power BI
-* Create meaningful visualizations to show business performance
-* Gain insights about regional, category-wise, and city-wise trends
-
----
-
 ## 🧰 Tools Used
 
 | Tool                                       | Purpose                                                                      |
 | ------------------------------------------ | ---------------------------------------------------------------------------- |
 | **Power BI Desktop**                       | Dashboard creation and data visualization                                    |
 | **Excel / CSV Dataset (Superstore Sales)** | Source data containing sales, profit, region, category, and city information |
-
----
-
-## 📂 Dataset Details
-
-**Dataset Name:** `Superstore_Sales.csv`
-**Main Columns Used:**
-
-* `Order Date`
-* `Region`
-* `Category`
-* `City`
-* `Sales`
-* `Profit`
 
 ---
 
@@ -78,29 +54,4 @@ Based on the visualizations:
 
 ---
 
-##  Data Cleaning 
-
-Before creating the dashboard, minor data cleaning was done:
-
-* Removed duplicates
-* Ensured correct data types (especially for `Order Date`)
-* Renamed columns for better readability
-
----
-
-##  Steps to Create the Dashboard
-
-1. Import the dataset (`Superstore_Sales.csv`) into **Power BI**.
-2. Use **Power Query** to check and clean the data.
-3. Convert `Order Date` into **Month-Year** format if needed.
-4. Create visuals:
-
-   * Bar chart → *Sales by Region*
-   * Donut chart → *Sales by Category*
-   * Column chart → *Profit by City*
-5. Add slicers or filters for **Region** or **Category**.
-6. Apply color formatting and clean layout for better readability.
-7. Save and export the dashboard as **PDF** or **image screenshot**.
-
----
 
