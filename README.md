@@ -1,14 +1,14 @@
 
-# 📊 Power BI Dashboard – Sales Analysis
+#  Power BI Dashboard – Sales Analysis
 
-## 🧾 Task Overview
+##  Task Overview
 
 This project was completed as part of my **Data Analyst Internship (Task 8)**.
 The objective was to create a **simple and interactive dashboard** in **Power BI** that visualizes sales and profit performance across different dimensions.
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
 | Tool                                       | Purpose                                                                      |
 | ------------------------------------------ | ---------------------------------------------------------------------------- |
@@ -17,7 +17,7 @@ The objective was to create a **simple and interactive dashboard** in **Power BI
 
 ---
 
-## 📈 Visualizations Created
+##  Visualizations Created
 
 The Power BI dashboard includes **three main charts**:
 
@@ -44,7 +44,7 @@ The Power BI dashboard includes **three main charts**:
 
 ---
 
-## 🔍 Insights
+##  Insights
 
 Based on the visualizations:
 
