@@ -43,7 +43,11 @@ The Power BI dashboard includes **three main charts**:
    * Helps find top-performing and underperforming cities.
 
 ---
+### Final Dashboard 
 
+<img src="task_8_overall_ss.png">
+
+---
 ##  Insights
 
 Based on the visualizations:
@@ -53,5 +57,3 @@ Based on the visualizations:
 * Some cities like **New York** and **Los Angeles** showed high profits, while smaller cities had lower margins.
 
 ---
-
-
